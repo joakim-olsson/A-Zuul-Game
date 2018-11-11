@@ -2,7 +2,7 @@
 
 ### How to start the game
 
-The game class has a main method with a game instance. Compile all the classes and run the main method in the game.java file.
+You run the game by calling the main method in the main.java file.
 
 ### Theme
 The game takes place outside a house in an unknown location. You can explore your surroundings to find items and enter areas you wouldn't be able to without a certain item.
