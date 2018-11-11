@@ -2,7 +2,7 @@
 * @Author: Joakim Olsson <lomo133>
 * @Date:   2018-11-05T18:05:37+01:00
  * @Last modified by:   lomo133
- * @Last modified time: 2018-11-11T00:50:27+01:00
+ * @Last modified time: 2018-11-11T01:03:03+01:00
 */
 
 import java.util.List;
@@ -39,14 +39,6 @@ public class Game
     {
         createRooms();
         parser = new Parser();
-    }
-
-    /**
-    * Execute the main method to start the game.
-    */
-    public static void main(String[] args) {
-        Game game = new Game();
-        game.play();
     }
 
     /**
