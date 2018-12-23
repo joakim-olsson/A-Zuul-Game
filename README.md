@@ -1,4 +1,4 @@
-# A-Zuul-Game
+# A Zuul Game
 
 ### How to start the game
 
